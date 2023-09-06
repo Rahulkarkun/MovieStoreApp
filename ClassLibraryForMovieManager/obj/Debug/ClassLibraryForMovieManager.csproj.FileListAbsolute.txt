@@ -1,0 +1,6 @@
+D:\Session 17\ClassLibraryForMovieManager\bin\Debug\ClassLibraryForMovieManager.dll
+D:\Session 17\ClassLibraryForMovieManager\bin\Debug\ClassLibraryForMovieManager.pdb
+D:\Session 17\ClassLibraryForMovieManager\obj\Debug\ClassLibraryForMovieManager.csproj.AssemblyReference.cache
+D:\Session 17\ClassLibraryForMovieManager\obj\Debug\ClassLibraryForMovieManager.csproj.CoreCompileInputs.cache
+D:\Session 17\ClassLibraryForMovieManager\obj\Debug\ClassLibraryForMovieManager.dll
+D:\Session 17\ClassLibraryForMovieManager\obj\Debug\ClassLibraryForMovieManager.pdb
