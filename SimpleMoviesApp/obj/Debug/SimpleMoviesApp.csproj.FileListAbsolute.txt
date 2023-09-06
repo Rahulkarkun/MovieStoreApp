@@ -1,0 +1,11 @@
+D:\Session 17\SimpleMoviesApp\bin\Debug\SimpleMoviesApp.exe.config
+D:\Session 17\SimpleMoviesApp\bin\Debug\SimpleMoviesApp.exe
+D:\Session 17\SimpleMoviesApp\bin\Debug\SimpleMoviesApp.pdb
+D:\Session 17\SimpleMoviesApp\bin\Debug\ClassLibraryForMovieManager.dll
+D:\Session 17\SimpleMoviesApp\bin\Debug\ClassLibraryForMovieManager.pdb
+D:\Session 17\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.AssemblyReference.cache
+D:\Session 17\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.SuggestedBindingRedirects.cache
+D:\Session 17\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.CoreCompileInputs.cache
+D:\Session 17\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.csproj.CopyComplete
+D:\Session 17\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.exe
+D:\Session 17\SimpleMoviesApp\obj\Debug\SimpleMoviesApp.pdb
